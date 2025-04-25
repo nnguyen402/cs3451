@@ -27,10 +27,10 @@ Watch the video tutorials made by our awesome TAs Kevin and Vibha:
 
 ## 1. Compile and run the first assignment:
 
-### Step 1: Clone the source code from GitLab and enter the codebase folder
+### Step 1: Clone the source code from Github and enter the codebase folder
 
-    git clone https://gitlab.com/boolzhu/cs3451-computer-graphics-starter-code/
-    cd cs3451-computer-graphics-starter-code
+    git clone https://github.com/cg-gatech/cs3451.git
+    cd cs3451
 
 ### Step 2: Build the project using CMake:
 
