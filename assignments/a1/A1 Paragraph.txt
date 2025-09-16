@@ -1,0 +1,11 @@
+/* My implementation of these graphical shapes showcases a scene with
+    headphones playing music in a chaotic background. To me, music acts 
+    as a universal remedy for anything in my life. The blue headphones playing music 
+    contrasts with the red background showcasing a sign of peace within chaos. This is
+    accentuated by the several red shapes in the background moving all over the place. 
+    The slower rhythm of the headphones "playing" music with the animated circles also
+    aims to create a sense of tranquility, which is how I perceive listening to music. 
+    The how for the moving shapes is utilizing sin and tan as well as iTime to 
+    keep the shapes constantly in motion. The other shapes are implemented using
+    techniques found in steps 1-4. I made sure to divide the "parts" of the image
+    into sections so I can easily reference parts of the image. */
